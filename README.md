@@ -4,7 +4,7 @@ Diferentes proyectos hechos siguiendo varios tutoriales del canal de youtube de 
 Incluye los siguientes proyectos:
 
 * **_AnotherLineChart_**: otro ejemplo de gráfica de líneas, previo a SwiftCharts.
-* **_BackGroundTimer_**: ejemplo de temporizador de cuenta atrás.
+* **_BackGroundTimer_**: ejemplo de temporizador que sigue activo en background, cuando la aplicación no está activa.
 * **_BarGraphs_**: ejemplo de gráfico de barras, previo a SwiftCharts.
 * **_Confetti_**: ejemplo de efecto confetti en toda la pantalla.
 * **_LineChart_**: ejemplo de gráfica de líneas, previo a SwiftCharts.
@@ -23,7 +23,7 @@ Different projects made following some youtube tutorials from [Kavsoft](https://
 This repository includes the following:
 
 * **_AnotherLineChart_**: another line chart example pre-SwiftCharts.
-* **_BackGroundTimer_**: an example of a countdown timer.
+* **_BackGroundTimer_**: an example of a running timer in background, even when the app is not active.
 * **_BarGraphs_**: an example of a bar chart pre-SwiftCharts.
 * **_Confetti_**: an example of confetti type animation into full screen.
 * **_LineChart_**: an example of a line chart pre-SwiftCharts.
