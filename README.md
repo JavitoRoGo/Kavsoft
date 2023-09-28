@@ -15,6 +15,7 @@ Incluye los siguientes proyectos:
 * **_RollingNumbers_**: ejemplo de números que saltan hasta su valor final.
 * **_SwiftChartDemo_**: ejemplo de gráfica con SwiftCharts.
 * **_WidgetTest_**: ejemplo de widget.
+* **_MapsForiOS17_**: ejemplo de uso de mapas en iOS17, con opción de búsqueda y lookAround.
 
 #
 
@@ -34,3 +35,4 @@ This repository includes the following:
 * **_RollingNumbers_**: an example of jumping numbers.
 * **_SwiftChartDemo_**: an example of how to use SwiftCharts.
 * **_WidgetTest_**: an example of how to build a widget.
+* **_MapsForiOS17_**: an example of implementing maps in iOS17, with searchable and lookAround.
