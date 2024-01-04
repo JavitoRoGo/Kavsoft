@@ -17,6 +17,8 @@ Incluye los siguientes proyectos:
 * **_WidgetTest_**: ejemplo de widget.
 * **_MapsForiOS17_**: ejemplo de uso de mapas en iOS 17, con opción de búsqueda y lookAround.
 * **_ScrollableTabView_**: ejemplo de tab view personalizada con nuevas funcionalidades de scroll de iOS 17.
+* **_DynamicThemeChanger_**: cambio entre modo claro y oscuro con popover e iconos con animación.
+* **_ParallaxScroll_**: vista en scroll de texto e imagen, pero con la imagen con scroll más lento.
 
 #
 
@@ -38,3 +40,5 @@ This repository includes the following:
 * **_WidgetTest_**: an example of how to build a widget.
 * **_MapsForiOS17_**: an example of implementing maps in iOS 17, with searchable and lookAround.
 * **_ScrollableTabView_**: an example of a custom scrollable tab view with iOS 17.
+* **_DynamicThemeChanger_**: color scheme selection on a popover view and animated icons.
+* **_ParallaxScroll_**: scrollview for text and images, but with slower scrolling for images.
