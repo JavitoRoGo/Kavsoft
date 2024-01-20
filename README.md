@@ -19,6 +19,7 @@ Incluye los siguientes proyectos:
 * **_ScrollableTabView_**: ejemplo de tab view personalizada con nuevas funcionalidades de scroll de iOS 17.
 * **_DynamicThemeChanger_**: cambio entre modo claro y oscuro con popover e iconos con animación.
 * **_ParallaxScroll_**: vista en scroll de texto e imagen, pero con la imagen con scroll más lento.
+* **_FloatingTabBar_**: creación de custom TabBar para macOS, adosada al lateral de la ventana.
 
 #
 
@@ -42,3 +43,4 @@ This repository includes the following:
 * **_ScrollableTabView_**: an example of a custom scrollable tab view with iOS 17.
 * **_DynamicThemeChanger_**: color scheme selection on a popover view and animated icons.
 * **_ParallaxScroll_**: scrollview for text and images, but with slower scrolling for images.
+* **_FloatingTabBar_**: custom TabBar for macOS, sided to the main window.
