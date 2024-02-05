@@ -20,6 +20,7 @@ Incluye los siguientes proyectos:
 * **_DynamicThemeChanger_**: cambio entre modo claro y oscuro con popover e iconos con animación.
 * **_ParallaxScroll_**: vista en scroll de texto e imagen, pero con la imagen con scroll más lento.
 * **_FloatingTabBar_**: creación de custom TabBar para macOS, adosada al lateral de la ventana.
+* **_HeroEffect_**: animación que pasa el icono de una lista como imagen en la vista que se abre.
 
 #
 
@@ -44,3 +45,4 @@ This repository includes the following:
 * **_DynamicThemeChanger_**: color scheme selection on a popover view and animated icons.
 * **_ParallaxScroll_**: scrollview for text and images, but with slower scrolling for images.
 * **_FloatingTabBar_**: custom TabBar for macOS, sided to the main window.
+* **_HeroEffect_**: animation between a list and detail subview.
