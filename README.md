@@ -21,6 +21,7 @@ Incluye los siguientes proyectos:
 * **_ParallaxScroll_**: vista en scroll de texto e imagen, pero con la imagen con scroll más lento.
 * **_FloatingTabBar_**: creación de custom TabBar para macOS, adosada al lateral de la ventana.
 * **_HeroEffect_**: animación que pasa el icono de una lista como imagen en la vista que se abre.
+* **_DraggablePiniOS17_**: permite crear un pin en el mapa en iOS 17 y arrastrarlo por el mapa.
 
 #
 
@@ -46,3 +47,4 @@ This repository includes the following:
 * **_ParallaxScroll_**: scrollview for text and images, but with slower scrolling for images.
 * **_FloatingTabBar_**: custom TabBar for macOS, sided to the main window.
 * **_HeroEffect_**: animation between a list and detail subview.
+* **_DraggablePiniOS17_**: it sets a custom pin on an iOS 17 map and lets move it around the map.
