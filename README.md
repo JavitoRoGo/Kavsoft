@@ -24,6 +24,8 @@ Incluye los siguientes proyectos:
 * **_DraggablePiniOS17_**: permite crear un pin en el mapa en iOS 17 y arrastrarlo por el mapa.
 * **_StackedCards_**: presentación horizontal de imágenes en stack, con animación.
 * **_HorizontalWheelPicker_**: selector horizontal tipo rueda de valores.
+* **_InteractiveSideMenu_**: menú lateral deslizante.
+* **_LiveActivitiesAndDynamicIsland_**: implementación de live activities en pantalla de bloqueo y en la isla dinámica.
 
 #
 
@@ -52,3 +54,5 @@ This repository includes the following:
 * **_DraggablePiniOS17_**: it sets a custom pin on an iOS 17 map and lets move it around the map.
 * **_StackedCards_**: horizontal scroll view for stacked images, with animation.
 * **_HorizontalWheelPicker_**: horizontal value picker, wheel style.
+* **_InteractiveSideMenu_**: sliding option menu.
+* **_LiveActivitiesAndDynamicIsland_**: implementing live actitivities on lock screen and dynamic island.
