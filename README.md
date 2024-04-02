@@ -26,6 +26,7 @@ Incluye los siguientes proyectos:
 * **_HorizontalWheelPicker_**: selector horizontal tipo rueda de valores.
 * **_InteractiveSideMenu_**: menú lateral deslizante.
 * **_LiveActivitiesAndDynamicIsland_**: implementación de live activities en pantalla de bloqueo y en la isla dinámica.
+* **_TextFieldWithLengthIndicator_**: campo de texto con indicador de longitud máxima en formato texto o anillo.
 
 #
 
@@ -56,3 +57,4 @@ This repository includes the following:
 * **_HorizontalWheelPicker_**: horizontal value picker, wheel style.
 * **_InteractiveSideMenu_**: sliding option menu.
 * **_LiveActivitiesAndDynamicIsland_**: implementing live actitivities on lock screen and dynamic island.
+* **_TextFieldWithLengthIndicator_**: text field with max length indicator, with text or ring style.
