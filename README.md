@@ -27,6 +27,7 @@ Incluye los siguientes proyectos:
 * **_InteractiveSideMenu_**: menú lateral deslizante.
 * **_LiveActivitiesAndDynamicIsland_**: implementación de live activities en pantalla de bloqueo y en la isla dinámica.
 * **_TextFieldWithLengthIndicator_**: campo de texto con indicador de longitud máxima en formato texto o anillo.
+* **_AnimatedSwiftCharts_**: forma sencilla de animar un gráfico por sectores.
 
 #
 
@@ -58,3 +59,4 @@ This repository includes the following:
 * **_InteractiveSideMenu_**: sliding option menu.
 * **_LiveActivitiesAndDynamicIsland_**: implementing live actitivities on lock screen and dynamic island.
 * **_TextFieldWithLengthIndicator_**: text field with max length indicator, with text or ring style.
+* **_AnimatedSwiftCharts_**: an easy way to animate a sector chart.
