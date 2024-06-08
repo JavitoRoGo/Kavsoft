@@ -29,6 +29,11 @@ Incluye los siguientes proyectos:
 * **_TextFieldWithLengthIndicator_**: campo de texto con indicador de longitud máxima en formato texto o anillo.
 * **_AnimatedSwiftCharts_**: forma sencilla de animar un gráfico por sectores.
 * **_FlipBookEffect_**: increíble efecto de transición tipo apertura de libro.
+* **_PhotosAppTransition_**: scroll de imágenes con animación al seleccionar tipo la app nativa de Photos.
+* **_StackedCardScrollView_**: efecto de scroll para imágenes que se apilan o esconden unas con otras.
+* **_VerticalCircularCarrousel_**: scroll vertical tipo carrusel en forma circular.
+* **_FlipClockEffect_**: animación de números tipo reloj mecánico de solapas.
+* **_HackerTextEffect_**: animación de cambio de texto que alterna entre el valor original del texto y caracteres aleatorios.
 
 #
 
